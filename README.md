@@ -9,9 +9,11 @@ Renderer: GLES 3 (particles are not available in GLES 2)
 
 Check out this demo on the asset library: https://godotengine.org/asset-library/asset/515
 
-## Screenshots
+## Demo
 
 ![GIF from the documentation](https://docs.godotengine.org/en/latest/_images/dodge_preview.gif)
+
+## ScreenShot 
 
 <img width="300px" src="asteroid_mania.png">
 
