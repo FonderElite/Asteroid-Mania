@@ -11,7 +11,7 @@ Check out this demo on the asset library: https://godotengine.org/asset-library/
 
 ## Demo
 
-![GIF from the documentation](https://docs.godotengine.org/en/latest/_images/dodge_preview.gif)
+![GIF from the documentation](Spaceship_demo.gif)
 
 ## ScreenShot 
 
