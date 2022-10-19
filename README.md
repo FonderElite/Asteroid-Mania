@@ -13,7 +13,7 @@ Check out this demo on the asset library: https://godotengine.org/asset-library/
 
 ![GIF from the documentation](https://docs.godotengine.org/en/latest/_images/dodge_preview.gif)
 
-![Screenshot](asteroid_mania.png)
+<img width="100px" src="asteroid_mania.png">
 
 ## Copying
 
