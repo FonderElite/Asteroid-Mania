@@ -11,7 +11,7 @@ Check out this demo on the asset library: https://godotengine.org/asset-library/
 
 ## Demo
 
-![GIF from the documentation](Spaceship_demo.gif)
+<img width="300px" src="Spaceship_demo.gif">
 
 ## ScreenShot 
 
