@@ -1,7 +1,7 @@
 # Asteroid Mania
 
-This is a simple game where your character must move
-and avoid the enemies for as long as possible.
+This is a simple game where your spaceship must move
+and avoid the asteroids for as long as possible.
 
 Language: GDScript
 
