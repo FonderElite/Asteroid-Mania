@@ -7,7 +7,7 @@ Language: GDScript
 
 Renderer: GLES 3 (particles are not available in GLES 2)
 
-Check out this demo on the asset library: https://godotengine.org/asset-library/asset/515
+Check out this demo on the asset library: [N/A]
 
 ## Demo
 
