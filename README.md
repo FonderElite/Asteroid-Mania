@@ -7,17 +7,13 @@ Language: GDScript
 
 Renderer: GLES 3 (particles are not available in GLES 2)
 
-Note: There is a C# version available [here](https://github.com/godotengine/godot-demo-projects/tree/master/mono/dodge_the_creeps).
-
-Note: There is a GDNative C++ version available [here](https://github.com/godotengine/gdnative-demos/tree/master/cpp/dodge_the_creeps).
-
 Check out this demo on the asset library: https://godotengine.org/asset-library/asset/515
 
 ## Screenshots
 
 ![GIF from the documentation](https://docs.godotengine.org/en/latest/_images/dodge_preview.gif)
 
-![Screenshot](screenshots/dodge.png)
+![Screenshot](asteroid_mania.png)
 
 ## Copying
 
