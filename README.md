@@ -7,7 +7,7 @@ Language: GDScript
 
 Renderer: GLES 3 (particles are not available in GLES 2)
 
-Check out this demo on the asset library: [N/A]
+Check out this demo on the asset library: [Asteroid Mania](https://godotengine.org/asset-library/asset/1505)
 
 ## Demo
 
